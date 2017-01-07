@@ -1,3 +1,3 @@
 # dockerizing-test
 
-Testing docker image creatio
+Testing docker image creation
